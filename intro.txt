@@ -1,0 +1,16 @@
+https://www.django-rest-framework.org/tutorial/quickstart/
+
+Note: You must activate the virtual environment every time you open the command prompt to work on your project.
+
+
+activate env:
+source env/bin/activate
+
+django-admin startproject <name>
+
+ python3 manage.py startapp <name>
+
+
+python3 manage.py makemigrations -> python3 manage.py migrate
+
+python3 manage.py runserver
