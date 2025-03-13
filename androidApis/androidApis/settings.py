@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'moodymusic$android',
         'USER': 'moodymusic',
-        'PASSWORD': 'userpass',
+        'PASSWORD': 'Tuesday2016!',
         'HOST': 'moodymusic.mysql.pythonanywhere-services.com', 
         'PORT': '3306',
         'OPTIONS': {
