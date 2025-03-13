@@ -1,2 +1,4 @@
 /envone
 /venv
+__pycache__/
+*.pyc
