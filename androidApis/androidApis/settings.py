@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-mz_f@tu0ri$qg=694i3xj--_ljnmg@i9upvwt_s=ut-aen+b3c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://moodymusic.pythonanywhere.com"]
 
 
 # Application definition
